@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@abderrhmane94" target="blank"><img src="https://img.shields.io/twitter/follow/@abderrhmane94?logo=twitter&style=for-the-badge" alt="@abderrhmane94" /></a> </p>
 
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 - 🌱 I’m currently learning **alxafrica**
 
 - 👯 I’m looking to collaborate on [Wejhni](https://gentle-bublanina-e89c22.netlify.app/)
